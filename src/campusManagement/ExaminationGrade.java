@@ -1,5 +1,6 @@
 package campusManagement;
 
+
 /**
  * Class represents a grade achieved in an examination
  * 

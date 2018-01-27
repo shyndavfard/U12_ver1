@@ -1,5 +1,6 @@
 package campusManagement;
 
+
 /**
  * Enum representing available semesters
  * 
